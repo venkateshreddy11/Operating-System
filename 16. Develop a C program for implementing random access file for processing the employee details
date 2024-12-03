@@ -103,7 +103,6 @@ void deleteEmployee() {
         fclose(file);
         return;
     }
-
     int id;
     printf("Enter Employee ID to delete: ");
     scanf("%d", &id);
