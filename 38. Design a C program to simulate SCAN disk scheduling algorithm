@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <stdlib.h>
-
 #define NUM_REQUESTS 8
 
 // Function to simulate SCAN disk scheduling algorithm
